@@ -1,6 +1,6 @@
 [{
-    "name": "Alabama",
-    "id": "US.AL",
+    "name": "Téhini",
+    "id": "CI.BO.TE",
     "flag": "http://static.anychart.com/images/maps_samples/States_of_United_States_Dashboard_with_MultiSelect/Flag_of_Alabama.png",
     "capital": "Montgomery",
     "largest_city": "Birmingham",
@@ -11,8 +11,8 @@
     "water_area": "4597",
     "house_seats": "7"
 }, {
-    "name": "Alaska",
-    "id": "US.AK",
+    "name": "Nassian",
+    "id": "CI.BO.NA",
     "flag": "http://static.anychart.com/images/maps_samples/States_of_United_States_Dashboard_with_MultiSelect/Flag_of_Alaska.png",
     "capital": "Juneau",
     "largest_city": "Anchorage",
@@ -35,8 +35,8 @@
     "water_area": "1026",
     "house_seats": "9"
 }, {
-    "name": "Arkansas",
-    "id": "US.AR",
+    "name": "Bouna",
+    "id": "CI.BO.BO",
     "flag": "http://static.anychart.com/images/maps_samples/States_of_United_States_Dashboard_with_MultiSelect/Flag_of_Arkansas.png",
     "capital": "Little Rock",
     "largest_city": "Little Rock",
@@ -47,8 +47,8 @@
     "water_area": "2960",
     "house_seats": "4"
 }, {
-    "name": "California",
-    "id": "US.CA",
+    "name": "Soubré",
+    "id": "CI.NA.SO",
     "flag": "http://static.anychart.com/images/maps_samples/States_of_United_States_Dashboard_with_MultiSelect/Flag_of_California.png",
     "capital": "Sacramento",
     "largest_city": "Los Angeles",
@@ -59,8 +59,8 @@
     "water_area": "20502",
     "house_seats": "53"
 }, {
-    "name": "Colorado",
-    "id": "US.CO",
+    "name": "Méagui",
+    "id": "CI.NA.ME",
     "flag": "http://static.anychart.com/images/maps_samples/States_of_United_States_Dashboard_with_MultiSelect/Flag_of_Colorado.png",
     "capital": "Denver",
     "largest_city": "Denver",
